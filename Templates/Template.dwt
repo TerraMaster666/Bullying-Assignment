@@ -9,8 +9,8 @@
 <!-- TemplateEndEditable -->
 <style type="text/css">
 #header {
-    background-color: #39AE2A;
-    background-image: url(../Images/lego.png);
+    background-color: #A9A9A9;
+    background-image: url(file:///C|/Users/terra/OneDrive/Desktop/Work/IST/Bullying%20Assignment/Images/lego.png);
     background-repeat: no-repeat;
     background-position: 0px 0px;
     height: 110px;
@@ -68,13 +68,13 @@
 </head>
 
 <body>
-<div id="header"></div>
+<div id="header"><img src="../Images/Untitled-1.png" width="932" height="110" alt=""/></div>
 <div id="menu1">
-	<h2>Home</h2>
+	<h2><!-- TemplateBeginEditable name="Title" -->Title<!-- TemplateEndEditable --></h2>
 </div>
 <div id="menu2"></div>
-<div id="content"><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable --></div>
-<div id="footer">Some Link&nbsp;&nbsp;&nbsp;Other Link&nbsp;&nbsp;&nbsp;Other Link</div>
+<div id="content"><!-- TemplateBeginEditable name="EditRegion1" -->Content<!-- TemplateEndEditable --></div>
+<div id="footer">What Is It?&nbsp;&nbsp;&nbsp;What can I Do?&nbsp;&nbsp;&nbsp;Contacts</div>
 <p>&nbsp;</p>
 </body>
 </html>
