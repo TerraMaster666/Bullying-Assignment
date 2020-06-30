@@ -1,0 +1,13 @@
+@charset "utf-8";
+#Page {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-size: 20px;
+    background-color: #1BC7BD;
+    letter-spacing: 4px;
+    text-align: center;
+    word-spacing: 1em;
+    height: 30px;
+    width: 100%;
+    border-bottom-width: thin;
+    border-bottom-style: dashed;
+}
